@@ -1,0 +1,57 @@
+artist_name,artist_id,artist_uri
+16BL,0u2qG4roqULELVVO9fMgSG,spotify:artist:0u2qG4roqULELVVO9fMgSG
+Amber Stomp,NA,NA
+Antic,7auS7PkaRQHTzo2ExUJIff,spotify:artist:7auS7PkaRQHTzo2ExUJIff
+Baltra,2tEyBfwGBfQgLXeAJW0MgC,spotify:artist:2tEyBfwGBfQgLXeAJW0MgC
+Ben Böhmer,5tDjiBYUsTqzd0RkTZxK7u,spotify:artist:5tDjiBYUsTqzd0RkTZxK7u
+boerd,5E5cEevLYdQHU04gIkA3ff,spotify:artist:5E5cEevLYdQHU04gIkA3ff
+Clair Gill,NA,NA
+CRi,3NaMuUYTIGm6CC3YqTuTvi,spotify:artist:3NaMuUYTIGm6CC3YqTuTvi 
+Croquet Club,6Fn7vKaPgzA6AAIb7EhhV6,spotify:artist:6Fn7vKaPgzA6AAIb7EhhV6
+Cubicolor,4nMIbZxtt1kWqUZ8VNKvjU,spotify:artist:4nMIbZxtt1kWqUZ8VNKvjU
+Daniel Curpen,1woE8OturHyGhBTNCROgTk,spotify:artist:1woE8OturHyGhBTNCROgTk
+Darper,1CAgD0EkKS1VdwlffTsJkT,spotify:artist:1CAgD0EkKS1VdwlffTsJkT
+Dee Montero,4nMIbZxtt1kWqUZ8VNKvjU,spotify:artist:4nMIbZxtt1kWqUZ8VNKvjU
+Dom Donnelly,NA,NA
+Dosem,0zmnkCTbAxYsZAMIqXEzfS,spotify:artist:0zmnkCTbAxYsZAMIqXEzfS
+Duncan From The Office,NA,NA
+Dusky,5gqoUf9vKKv96b1c0GBKwu,spotify:artist:5gqoUf9vKKv96b1c0GBKwu
+Eli & Fur,5CkVLGKUJkIc1pmSk10QP4,spotify:artist:5CkVLGKUJkIc1pmSk10QP4
+Elif,4ignFLRAzk5KZxBw8TH7Zl,spotify:artist:4ignFLRAzk5KZxBw8TH7Zl
+Fluida,3QvuOoePuqI8kHbA920MYM,spotify:artist:3QvuOoePuqI8kHbA920MYM
+Fort Romeau,5MKqWyqq5CStK7AhkTvzQF,spotify:artist:5MKqWyqq5CStK7AhkTvzQF
+Frames,2Y4v0DlI6IKTnsdfEXGoQf,spotify:artist:2Y4v0DlI6IKTnsdfEXGoQf
+Gacha Bakradze,6dZmlzI1H5SGdkQ8dWRY76,spotify:artist:6dZmlzI1H5SGdkQ8dWRY76
+Gorje Hewek & Izhevski,5kLN8Hp6OAIf5M3sCjnrYk,spotify:artist:5kLN8Hp6OAIf5M3sCjnrYk
+Hisham Zahran,5OlMwOQDQsF1PafD094uyY,spotify:artist:5OlMwOQDQsF1PafD094uyY
+James Grant,45fFrwMq6sPP5P4k1qqFi7,spotify:artist:45fFrwMq6sPP5P4k1qqFi7
+Jaytech,5mpJ1Z8BYEOG0rrdO4a2nG,spotify:artist:5mpJ1Z8BYEOG0rrdO4a2nG
+Jim Rider,4zb1c7hwyu6K3397ybW3GC,spotify:artist:4zb1c7hwyu6K3397ybW3GC
+Jody Wisternoff,5gTVJRQmuS88nOhhdHqErL,spotify:artist:5gTVJRQmuS88nOhhdHqErL
+Joseph Ashworth,7CpmbhzkL9uT1D9nhckTxB,spotify:artist:7CpmbhzkL9uT1D9nhckTxB
+Just Her,6SI2JOqTJwLVX63w28PxoL,spotify:artist:6SI2JOqTJwLVX63w28PxoL
+Lane 8,27gtK7m9vYwCyJ04zz0kIb,spotify:artist:27gtK7m9vYwCyJ04zz0kIb
+Lauer,36rey1TxHa81Az8CqZpsJ4,spotify:artist:36rey1TxHa81Az8CqZpsJ4
+LOOPer,5aFhC5QpwO1Hi30sxedWR3,spotify:artist:5aFhC5QpwO1Hi30sxedWR3
+Luttrell,4EOyJnoiiOJ4vuNhSBArB2,spotify:artist:4EOyJnoiiOJ4vuNhSBArB2
+Marsh,1eucLGnPT27tdEh6MU29wp,spotify:artist:1eucLGnPT27tdEh6MU29wp
+Martin Roth,4LoSbPey3kklzX5f2KEks1,spotify:artist:4LoSbPey3kklzX5f2KEks1
+Michael Cassette,3xDWzhtOet1qJ08MLimhSd,spotify:artist:3xDWzhtOet1qJ08MLimhSd
+Miss Melera,3P7dBiGBrfbqVE1Etbr9f1,spotify:artist:3P7dBiGBrfbqVE1Etbr9f1
+Modd,57aX19q7mKEOq5Y6FrHoh2,spotify:artist:57aX19q7mKEOq5Y6FrHoh2
+Molø,NA,NA
+Moon Boots,3cIXmCH7iNcslTbwrwS7zy,spotify:artist:3cIXmCH7iNcslTbwrwS7zy
+Nick Warren,7aY9PtsNws5AdwbdktfbaN,spotify:artist:7aY9PtsNws5AdwbdktfbaN
+Nons,NA,NA
+Öona Dahl,2kG6cpjJzSntok1UkmWYuM,spotify:artist:2kG6cpjJzSntok1UkmWYuM
+Patrice Bäumel,5OvpF1A65DXs93M9NfPIjT,spotify:artist:5OvpF1A65DXs93M9NfPIjT
+Penelope,NA,NA
+Roz Keefe,NA,NA
+Salmon Gang,NA,NA
+Tim Englehardt,74HdscE6G74tt01dbVZULE,spotify:artist:74HdscE6G74tt01dbVZULE
+Tinlicker,5EmEZjq8eHEC6qFnT63Lza,spotify:artist:5EmEZjq8eHEC6qFnT63Lza
+Tom Middleton,7KygebVvltzvrQxNnukuFT,spotify:artist:7KygebVvltzvrQxNnukuFT
+Trance Wax,28Rn5KfDspTUHLpPfPF8EE,spotify:artist:28Rn5KfDspTUHLpPfPF8EE
+TSHA,2kLa7JZu4Ijdz1Gle2khZh,spotify:artist:2kLa7JZu4Ijdz1Gle2khZh
+Way Out West,3HghjRl8Mo6OJWG0WElY2z,spotify:artist:3HghjRl8Mo6OJWG0WElY2z
+Yotto,5Dyfxq0ZrFjjeFBdSNxDbo,spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo
